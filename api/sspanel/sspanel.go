@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/XrayR-project/XrayR/api"
+	"github.com/SHctt/076bak/api"
 	"github.com/go-resty/resty/v2"
 )
 

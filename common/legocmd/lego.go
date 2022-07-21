@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/XrayR-project/XrayR/common/legocmd/cmd"
+	"github.com/SHctt/076bak/common/legocmd/cmd"
 	"github.com/urfave/cli"
 )
 

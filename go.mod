@@ -1,4 +1,4 @@
-module github.com/XrayR-project/XrayR
+module github.com/SHctt/076bak
 
 go 1.17
 
